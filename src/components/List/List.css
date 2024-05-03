@@ -1,0 +1,17 @@
+.List {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  align-items: center;
+  justify-content: center;
+}
+.mobileButton {
+  background-color: rgb(97, 131, 224) !important;
+  color: white !important;
+}
+
+@media (max-width: 1195px) {
+  .List {
+    gap: 1.1rem;
+  }
+}

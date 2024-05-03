@@ -1,0 +1,23 @@
+.PokeList {
+  margin: 1rem;
+  gap: 1.5rem;
+  width: 75%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+@media (max-width: 1195px) {
+  .PokeList {
+    margin: 0.75rem;
+    width: 100%;
+    gap: 1.25rem;
+  }
+  .PokeListH1 {
+    padding-top: 0.25rem;
+    font-size: 2.5rem;
+  }
+  .PokeListH2 {
+    font-size: 1.5rem;
+  }
+}
