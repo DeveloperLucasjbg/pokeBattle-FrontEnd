@@ -1,5 +1,5 @@
 ## First 
-Se podrian implementar varias mejoras como tipos de pokemon o incluir directamente la PokeApi, agregar algun spinner, lazzy loading, etc, pero no me quise extenser en el tiempo de entrega.
+Se podrian implementar varias mejoras como tipos de pokemon o incluir directamente la PokeApi, agregar algun spinner, lazzy loading, etc, pero no me quise extender en el tiempo de entrega.
 
 Ejecutar primero el backend y dejar escuchando en el puerto por defecto (:3000),
 al entrar en la app viene por defecto sin seleccionar pokemons,
